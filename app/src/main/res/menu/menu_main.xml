@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/account_menu_item"
+          android:title="Account"
+          android:orderInCategory="100" />
+    <item android:id="@+id/settings_menu_item"
+          android:title="Settings"
+          android:orderInCategory="100" />
+    <item android:id="@+id/dashboard_menu_item"
+          android:title="Dashboard"
+          android:orderInCategory="100" />
+</menu>

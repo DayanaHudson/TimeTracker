@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068603518264",
+    "project_id": "timetracker-66aa9"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068603518264:android:d29147545921943a",
+        "android_client_info": {
+          "package_name": "com.example.dayana.timetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068603518264-2j6fca6t6r0sd9ajqvhf4s40o6e78k8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dayana.timetracker",
+            "certificate_hash": "3CC40CAC2136780001E3809228D1B603CECFE8A9"
+          }
+        },
+        {
+          "client_id": "1068603518264-i9k06pke3qd70ea6tpca4qdosaelm2bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbkkLWXoDnaCfX_MWIce1pWxbYv3LijRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.dayana.timetracker">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Time Tracker"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Dashboard"
+            android:label="Time Tracker | Dashboard"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Account"
+            android:label="Time Tracker | Account"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Settings"
+            android:label="Time Tracker | Settings"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".Tracking"
+            android:label="Time Tracker | Tracking"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+</manifest>
