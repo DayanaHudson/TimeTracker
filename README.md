@@ -1,7 +1,8 @@
 # TimeTracker
-Track activities and send e-mail reports to one or more e-mail addresses.
+Android app to track activities and send e-mail reports to one or more e-mail addresses.
 
 ## Usage
+Download the code and build your own .apk file or download the provided file located at TimeTracker/app-debug.apk
 Log in with your Google account to track time spent on personal or work projects. Add a project name (required) and a comment (optional) describing any updates, progress, or details to be associated with the tracking session. Then, send a copy to yourself and to any desired contacts (set in the Settings menu tab).
 
 ## Details
